@@ -1,0 +1,42 @@
+body {
+  color: #333333;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+/* komment */
+img {
+  width: 100%;
+}
+
+article {
+  max-width: 668px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 40px;
+}
+
+h2 {
+  color: #666666;
+  font-weight: normal;
+  margin-top: 0;
+  font-size: 27px;
+}
+
+p {
+  font-size: 21px;
+  line-height: 33px;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  color: #333333;
+}
